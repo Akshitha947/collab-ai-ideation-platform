@@ -143,7 +143,7 @@ frontend/node_modules/
 frontend/build/
 
 #Bcakend specific
-Bcakend/node_modules/
+Backend/node_modules/
 
 #Environment variables
 .env
